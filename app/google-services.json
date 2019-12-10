@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "413226626639",
+    "firebase_url": "https://productmanagerapp-22cf0.firebaseio.com",
+    "project_id": "productmanagerapp-22cf0",
+    "storage_bucket": "productmanagerapp-22cf0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413226626639:android:682e92ce04eee2ac99043a",
+        "android_client_info": {
+          "package_name": "com.abiolasoft.productmanagerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413226626639-i1rsqavfrh0lu2q6l01a0njca617lbu8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abiolasoft.productmanagerapp",
+            "certificate_hash": "627804d685cf13ac0b14e5260e43ac841c3cc4e7"
+          }
+        },
+        {
+          "client_id": "413226626639-2nk0ts314a69n3o026gp9fcrq18j60m4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmA4w80k03qwJUBa7bsI0vzFG9WZMEZ9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413226626639-2nk0ts314a69n3o026gp9fcrq18j60m4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
